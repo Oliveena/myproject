@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 10;
+    border: 40%;
+}
+
+.main{
+    height: 100vh;
+    color: aquamarine;
+}
